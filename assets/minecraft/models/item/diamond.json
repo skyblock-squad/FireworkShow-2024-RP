@@ -4,6 +4,37 @@
 		"layer0": "item/diamond"
 	},
 	"overrides": [
-		{ "predicate": { "custom_model_data": 101}, "model": "item/idk" }
+		{ "predicate": { "custom_model_data": 1001}, "model": "item/texts/lyrics/still" },
+		{ "predicate": { "custom_model_data": 1002}, "model": "item/texts/lyrics/and" },
+		{ "predicate": { "custom_model_data": 1003}, "model": "item/texts/lyrics/silent" },
+		{ "predicate": { "custom_model_data": 1004}, "model": "item/texts/lyrics/calm" },
+		{ "predicate": { "custom_model_data": 1005}, "model": "item/texts/lyrics/before" },
+		{ "predicate": { "custom_model_data": 1006}, "model": "item/texts/lyrics/the" },
+		{ "predicate": { "custom_model_data": 1007}, "model": "item/texts/lyrics/storm" },
+		{ "predicate": { "custom_model_data": 1008}, "model": "item/texts/lyrics/gold" },
+		{ "predicate": { "custom_model_data": 1009}, "model": "item/texts/lyrics/diamond" },
+		{ "predicate": { "custom_model_data": 1010}, "model": "item/texts/lyrics/jewels" },
+		{ "predicate": { "custom_model_data": 1011}, "model": "item/texts/lyrics/behind" },
+		{ "predicate": { "custom_model_data": 1012}, "model": "item/texts/lyrics/throne" },
+		{ "predicate": { "custom_model_data": 1013}, "model": "item/texts/lyrics/into" },
+		{ "predicate": { "custom_model_data": 1014}, "model": "item/texts/lyrics/night" },
+		{ "predicate": { "custom_model_data": 1015}, "model": "item/texts/lyrics/out" },
+		{ "predicate": { "custom_model_data": 1016}, "model": "item/texts/lyrics/of" },
+		{ "predicate": { "custom_model_data": 1017}, "model": "item/texts/lyrics/dark" },
+		{ "predicate": { "custom_model_data": 1018}, "model": "item/texts/lyrics/take" },
+		{ "predicate": { "custom_model_data": 1019}, "model": "item/texts/lyrics/to" },
+		{ "predicate": { "custom_model_data": 1020}, "model": "item/texts/lyrics/sky" },
+		{ "predicate": { "custom_model_data": 1021}, "model": "item/texts/lyrics/chasing" },
+		{ "predicate": { "custom_model_data": 1022}, "model": "item/texts/lyrics/stars" },
+		{ "predicate": { "custom_model_data": 1023}, "model": "item/texts/lyrics/all" },
+		{ "predicate": { "custom_model_data": 1024}, "model": "item/texts/lyrics/that" },
+		{ "predicate": { "custom_model_data": 1025}, "model": "item/texts/lyrics/we" },
+		{ "predicate": { "custom_model_data": 1026}, "model": "item/texts/lyrics/said" },
+		{ "predicate": { "custom_model_data": 1027}, "model": "item/texts/lyrics/are" },
+		{ "predicate": { "custom_model_data": 1028}, "model": "item/texts/lyrics/waiting" },
+		{ "predicate": { "custom_model_data": 1029}, "model": "item/texts/lyrics/fly" },
+		{ "predicate": { "custom_model_data": 1030}, "model": "item/texts/lyrics/this" },
+		{ "predicate": { "custom_model_data": 1031}, "model": "item/texts/lyrics/is" },
+		{ "predicate": { "custom_model_data": 1032}, "model": "item/texts/lyrics/start" }
 	]
 }
