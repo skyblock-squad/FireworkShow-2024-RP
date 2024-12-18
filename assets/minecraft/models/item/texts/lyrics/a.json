@@ -1,0 +1,48 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [1000, 320],
+	"textures": {
+		"0": "item/texts/lyrics/text"
+	},
+	"elements": [
+		{
+			"from": [6.6, 0.2, 6.9],
+			"to": [9.4, 4.2, 9.1],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 1.1, 0.448, 3.1], "texture": "#0"},
+				"south": {"uv": [0.448, 1.1, 0, 3.1], "texture": "#0"},
+				"up": {"uv": [0.448, 1.1, 0, 0], "texture": "#0"},
+				"down": {"uv": [0.448, 4.2, 0, 3.1], "texture": "#0"}
+			}
+		},
+		{
+			"from": [9.6, 4.4, 9.3],
+			"to": [6.4, 0, 6.7],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 13.3, 0.016, 13.35], "texture": "#0"},
+				"east": {"uv": [0, 13.3, 0.016, 13.35], "texture": "#0"},
+				"south": {"uv": [0, 13.3, 0.016, 13.35], "texture": "#0"},
+				"west": {"uv": [0, 13.3, 0.016, 13.35], "texture": "#0"},
+				"up": {"uv": [0, 13.3, 0.016, 13.35], "texture": "#0"},
+				"down": {"uv": [0, 13.3, 0.016, 13.35], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "a",
+			"origin": [8, 0, 8],
+			"color": 0,
+			"children": [
+				{
+					"name": "a",
+					"origin": [8, 0, 8],
+					"color": 0,
+					"children": [0, 1]
+				}
+			]
+		}
+	]
+}
