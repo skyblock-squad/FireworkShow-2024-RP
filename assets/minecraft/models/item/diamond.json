@@ -6,6 +6,7 @@
 	"overrides": [
 		{ "predicate": { "custom_model_data": 1}, "model": "item/props/bulb" },
 		{ "predicate": { "custom_model_data": 2}, "model": "item/props/laser_blue" },
+		{ "predicate": { "custom_model_data": 3}, "model": "item/props/headlight" },
 		{ "predicate": { "custom_model_data": 101}, "model": "item/led_display/led_display1" },
 		{ "predicate": { "custom_model_data": 1001}, "model": "item/texts/lyrics/still" },
 		{ "predicate": { "custom_model_data": 1002}, "model": "item/texts/lyrics/and" },
