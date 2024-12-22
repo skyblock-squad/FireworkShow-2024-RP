@@ -73,6 +73,7 @@
 		{ "predicate": { "custom_model_data": 1063}, "model": "item/texts/lyrics/open" },
 		{ "predicate": { "custom_model_data": 1064}, "model": "item/texts/lyrics/eyes" },
 		{ "predicate": { "custom_model_data": 1065}, "model": "item/texts/lyrics/watching" },
-		{ "predicate": { "custom_model_data": 1066}, "model": "item/texts/lyrics/afar" }
+		{ "predicate": { "custom_model_data": 1066}, "model": "item/texts/lyrics/afar" },
+		{ "predicate": { "custom_model_data": 2001}, "model": "item/texts/fireworkshow" }
 	]
 }
