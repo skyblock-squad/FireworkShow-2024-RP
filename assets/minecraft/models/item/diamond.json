@@ -8,6 +8,7 @@
 		{ "predicate": { "custom_model_data": 2}, "model": "item/props/laser" },
 		{ "predicate": { "custom_model_data": 3}, "model": "item/props/headlight" },
 		{ "predicate": { "custom_model_data": 4}, "model": "item/props/sbslogo" },
+		{ "predicate": { "custom_model_data": 5}, "model": "item/props/laser_red" },
 		{ "predicate": { "custom_model_data": 101}, "model": "item/led_display/led_display1" },
 		{ "predicate": { "custom_model_data": 102}, "model": "item/led_display/led1_chorus1" },
 		{ "predicate": { "custom_model_data": 1001}, "model": "item/texts/lyrics/still" },
