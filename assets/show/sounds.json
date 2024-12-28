@@ -4,6 +4,11 @@
             "show:thecalling"
         ]
     },
+    "debug0": {
+        "sounds": [
+            "show:debug0"
+        ]
+    },
     "debug1": {
         "sounds": [
             "show:debug1"
