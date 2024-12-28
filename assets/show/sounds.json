@@ -3,5 +3,30 @@
         "sounds": [
             "show:thecalling"
         ]
+    },
+    "debug1": {
+        "sounds": [
+            "show:debug1"
+        ]
+    },
+    "debug2": {
+        "sounds": [
+            "show:debug2"
+        ]
+    },
+    "debug3": {
+        "sounds": [
+            "show:debug3"
+        ]
+    },
+    "debug4": {
+        "sounds": [
+            "show:debug4"
+        ]
+    },
+    "debug5": {
+        "sounds": [
+            "show:debug5"
+        ]
     }
 }
