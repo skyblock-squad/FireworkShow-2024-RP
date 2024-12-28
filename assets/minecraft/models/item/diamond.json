@@ -16,6 +16,7 @@
 		{ "predicate": { "custom_model_data": 10 }, "model": "item/props/laser_blue_scatter" },
 		{ "predicate": { "custom_model_data": 11 }, "model": "item/props/laser_white_scatter" },
 		{ "predicate": { "custom_model_data": 12 }, "model": "item/props/laser_rgb_scatter" },
+		{ "predicate": { "custom_model_data": 13 }, "model": "item/props/laser_green_scatter_rotated" },
 		{ "predicate": { "custom_model_data": 101}, "model": "item/led_display/led_display1" },
 		{ "predicate": { "custom_model_data": 102}, "model": "item/led_display/led1_chorus1" },
 		{ "predicate": { "custom_model_data": 201 }, "model": "item/props/dimmer/1" },
