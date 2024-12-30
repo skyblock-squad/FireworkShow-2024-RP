@@ -103,6 +103,8 @@
 		{ "predicate": { "custom_model_data": 2001}, "model": "item/texts/fireworkshow" },
 		{ "predicate": { "custom_model_data": 2002}, "model": "item/texts/2024" },
 		{ "predicate": { "custom_model_data": 2003}, "model": "item/texts/made_by" },
-		{ "predicate": { "custom_model_data": 2004}, "model": "item/texts/skyblocksquad" }
+		{ "predicate": { "custom_model_data": 2004}, "model": "item/texts/skyblocksquad" },
+		{ "predicate": { "custom_model_data": 2005}, "model": "item/texts/thecalling" },
+		{ "predicate": { "custom_model_data": 2006}, "model": "item/texts/thefatrat" }
 	]
 }
