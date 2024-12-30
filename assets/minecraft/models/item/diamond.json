@@ -22,6 +22,7 @@
 		{ "predicate": { "custom_model_data": 103}, "model": "item/props/ledarrow" },
 		{ "predicate": { "custom_model_data": 104}, "model": "item/props/dreieck" },
 		{ "predicate": { "custom_model_data": 105}, "model": "item/props/dreieck_2" },
+		{ "predicate": { "custom_model_data": 106}, "model": "item/props/lantern" },
 		{ "predicate": { "custom_model_data": 201 }, "model": "item/props/dimmer/1" },
   	    { "predicate": { "custom_model_data": 202 }, "model": "item/props/dimmer/2" },
    		{ "predicate": { "custom_model_data": 203 }, "model": "item/props/dimmer/3" },
