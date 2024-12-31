@@ -106,6 +106,10 @@
 		{ "predicate": { "custom_model_data": 2003}, "model": "item/texts/made_by" },
 		{ "predicate": { "custom_model_data": 2004}, "model": "item/texts/skyblocksquad" },
 		{ "predicate": { "custom_model_data": 2005}, "model": "item/texts/thecalling" },
-		{ "predicate": { "custom_model_data": 2006}, "model": "item/texts/thefatrat" }
+		{ "predicate": { "custom_model_data": 2006}, "model": "item/texts/thefatrat" },
+		{ "predicate": { "custom_model_data": 2007}, "model": "item/texts/thankyou" },
+		{ "predicate": { "custom_model_data": 2008}, "model": "item/texts/song" },
+		{ "predicate": { "custom_model_data": 2009}, "model": "item/texts/explo2024" },
+		{ "predicate": { "custom_model_data": 2010}, "model": "item/texts/explo2025" }
 	]
 }
